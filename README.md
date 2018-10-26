@@ -1,6 +1,6 @@
 
 
-#Starting the application
+# Starting the application
 
 1. Checkout the code and go to the root folder
 2. **mvn spring-boot:run**
@@ -9,7 +9,7 @@
 5. Use VSSZZZ6JZ9R056308 as sample vin id
 6. Run **mvn test** to generate test coverage in target folder
 
-# Solution
+# Details
 
 
 Following is the endpoint required:
