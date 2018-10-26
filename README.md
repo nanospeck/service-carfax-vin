@@ -14,6 +14,7 @@
 
 Following is the endpoint required:
 GET http://localhost:8080/service-vin/v1/vin/{vin}
+
 **Function:** Analyze the data points and detect odometerRollback
 
 * Add a boolean field **isOdometerRollback** to the record is an odometer rollback has occured
